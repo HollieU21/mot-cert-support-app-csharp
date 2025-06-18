@@ -3,6 +3,7 @@ This project is a simple time sheet manager application. It allows users to log 
 
 # Example Edits 
 This is an example of an edit being committed. 
+THIS IS THE DEMO BRANCH in which a change has been made. 
 
 ## Getting Started
 
